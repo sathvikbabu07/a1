@@ -18,7 +18,12 @@ workshop 22/11/2021 this workshop contains git and github files
 
 
 
-* t20 wc
+* t20wc
  * india
  * pakistan
  * newzealand
+
+1. vegetables
+    1. tomatoes
+    2. carrots
+    3. onions
