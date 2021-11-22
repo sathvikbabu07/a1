@@ -18,7 +18,7 @@ workshop 22/11/2021 this workshop contains git and github files
 
 
 
-*t20 wc
-  *india
-  *pakistan
-  *newzealand
+* t20 wc
+ * india
+ * pakistan
+ * newzealand
