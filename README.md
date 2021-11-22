@@ -10,7 +10,7 @@ workshop 22/11/2021 this workshop contains git and github files
 
 *italian*
 
-**bold
+**bold**
 
 ***bold and italic***
 
