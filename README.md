@@ -15,3 +15,10 @@ workshop 22/11/2021 this workshop contains git and github files
 ***bold and italic***
 
 [cricket scores](https://www.cricbuzz.com/)
+
+
+
+*t20 wc
+  *india
+  *pakistan
+  *newzealand
